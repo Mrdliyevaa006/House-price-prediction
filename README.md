@@ -33,28 +33,6 @@ The model is built with **RandomForestRegressor**.
 * `scikit-learn` – machine learning (RandomForestRegressor)
 
 ---
-
-## 🚀 Usage
-
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/house-price-prediction.git
-cd house-price-prediction
-```
-
-Install the requirements:
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the notebook:
-
-```bash
-jupyter notebook house_price_prediction.ipynb
-```
-
 ---
 
 
