@@ -35,6 +35,3 @@ The model is built with **RandomForestRegressor**.
 ---
 ---
 
-
-
-Aytən, istəyirsən README-yə **Feature Importance plot** (RandomForest-dan çıxan ən vacib dəyişənlər) əlavə eləyim? Bu portfolio üçün çox professional görünər 🔥
